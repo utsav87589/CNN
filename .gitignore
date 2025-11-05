@@ -1,0 +1,32 @@
+
+#  Ignore all image data and large files
+data/
+images/
+Binary classification/images*/
+models/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tiff
+*.npy
+*.npz
+*.h5
+*.pkl
+*.pt
+*.ckpt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS / Editor stuff
+.DS_Store
+Thumbs.db
+*.log
