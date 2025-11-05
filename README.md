@@ -14,3 +14,8 @@ This repo contains CNN (Convolution neural network) based projects like single i
 
 -fixed the errors,
 -preprocessed the train data
+
+### Day 3 update
+
+-preprocessed the test data, make the model
+-and did the predictions.
