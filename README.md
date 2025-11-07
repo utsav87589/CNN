@@ -23,3 +23,7 @@ This repo contains CNN (Convolution neural network) based projects like single i
 ### Day 4 update
 
 -Trying anf fix the error, while seeing inside the each layer of the model that we saved.
+
+### Day 5 update
+
+-Reverse engineering done, successfully find out the inner of cnn, as well as visualize, what ever filter/layer, sees
