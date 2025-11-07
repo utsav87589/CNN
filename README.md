@@ -19,3 +19,7 @@ This repo contains CNN (Convolution neural network) based projects like single i
 
 -preprocessed the test data, make the model
 -and did the predictions.
+
+### Day 4 update
+
+-Trying anf fix the error, while seeing inside the each layer of the model that we saved.
