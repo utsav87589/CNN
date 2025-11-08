@@ -26,4 +26,9 @@ This repo contains CNN (Convolution neural network) based projects like single i
 
 ### Day 5 update
 
--Reverse engineering done, successfully find out the inner of cnn, as well as visualize, what ever filter/layer, sees
+-Reverse engineering done, successfully find out the inner of cnn, as well as visualize, what every filter/layer, sees
+
+### Day 6 update
+
+-fixed the bug in the yestherday file
+-optimized the program to see more images and for any layer
