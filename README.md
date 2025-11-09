@@ -32,3 +32,8 @@ This repo contains CNN (Convolution neural network) based projects like single i
 
 -fixed the bug in the yestherday file
 -optimized the program to see more images and for any layer
+
+### Day 7 update
+
+-optimized the code, 
+-visaulize the outputs, data driven from the flatten and dense layers of the CNN model
