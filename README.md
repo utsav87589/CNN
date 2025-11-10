@@ -37,3 +37,15 @@ This repo contains CNN (Convolution neural network) based projects like single i
 
 -optimized the code, 
 -visaulize the outputs, data driven from the flatten and dense layers of the CNN model
+
+
+
+### --------------------Multi class classification----------------------------
+
+# kaggle link for the dataset
+-https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification
+
+### Day 1 update
+
+-created and structured more files under tha name 'multi class classification'
+-loaded, preprocessed and saved the image data
