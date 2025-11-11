@@ -49,3 +49,8 @@ This repo contains CNN (Convolution neural network) based projects like single i
 
 -created and structured more files under tha name 'multi class classification'
 -loaded, preprocessed and saved the image data
+
+### Day 2 update
+
+- changed the labels for the image class, to feed to the model
+- made the predictions and checked the metrics
