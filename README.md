@@ -54,3 +54,8 @@ This repo contains CNN (Convolution neural network) based projects like single i
 
 - changed the labels for the image class, to feed to the model
 - made the predictions and checked the metrics
+
+### Day 3 update
+
+- used the transfer learning and test for the dataset
+- saved the models for further reverse engineering
