@@ -59,3 +59,8 @@ This repo contains CNN (Convolution neural network) based projects like single i
 
 - used the transfer learning and test for the dataset
 - saved the models for further reverse engineering
+
+### Day 4 update
+
+- checked the core architect of the 'modified_mobile_net' model
+- made the feature map for the first conv2 layer, more is yet to come
